@@ -1,0 +1,10 @@
+{
+  "name": "Agenda",
+  "short_name": "Agenda",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f8f7",
+  "theme_color": "#1c1917",
+  "description": "Aplicativo de agenda"
+}
